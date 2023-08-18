@@ -12,3 +12,13 @@
 body {
     background: var(--bg-color);
 }
+
+#container {
+    width: 189.659px;
+    margin: 38.4px auto;
+}
+
+#container img {
+    width: 189.659px;
+    height: 189.659px;
+}
