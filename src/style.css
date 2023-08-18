@@ -7,6 +7,7 @@
 
 :root {
     --bg-color: #2a2141;
+    --color-titulo-musica: #e1e1e6;
 }
 
 body {
@@ -21,4 +22,14 @@ body {
 #container img {
     width: 189.659px;
     height: 189.659px;
+    margin-bottom: 28.81px;
+}
+
+#container h3 {
+    color: var(--color-titulo-musica);
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
 }
